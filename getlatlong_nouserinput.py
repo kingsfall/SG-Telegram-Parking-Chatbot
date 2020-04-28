@@ -83,7 +83,8 @@ def fromTXTCarparkURA():
 
 #depreciated
 def insertXYCoordToCarparkDB(carparkDB):
-    apiKey = 'AIzaSyDEWaKeq6zK3aqU8yexuoL-iid1PdcKFgk'
+    #Key in your Google API key here
+    apiKey = 'YOUR GOOGLE API KEY'
     geocodeRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address='
     keyCode = '&key='
     noresultsIDArray = []
