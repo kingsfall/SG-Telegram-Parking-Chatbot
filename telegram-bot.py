@@ -2,7 +2,7 @@ import requests
 import json
 import math
 import operator
-apiKey = 'AIzaSyDEWaKeq6zK3aqU8yexuoL-iid1PdcKFgk'
+apiKey = ''
 geocodeRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address='
 keyCode = '&key='
 
@@ -13,7 +13,7 @@ keyCode = '&key='
 
 
 import telegram
-botKey = '1057701245:AAGtYA9GF2hoHNcQhwg5M_ecyxh3CLD1el4' 
+botKey = '' 
 bot = telegram.Bot(token=botKey)
 
 from telegram.ext import Updater
