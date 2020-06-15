@@ -141,7 +141,7 @@ def deleteNoGoogleResultRoutine(notepadRead,notepadWrite,delArrayID):
         my_data_file.write(carparkDB)    
     return
 def fillXYCoordSubRoutine(carparkDB,carparkKeyValue,noresultsIDArray,notepadWrite,notepadWriteNoResult1stArray,notepadWriteNoResult2ndArray):
-    apiKey = 'AIzaSyDEWaKeq6zK3aqU8yexuoL-iid1PdcKFgk'
+    apiKey = 'YOUR GOOGLE API KEY'
     geocodeRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address='
     keyCode = '&key='
 
