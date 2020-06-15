@@ -1,5 +1,5 @@
 # SG Parking ChatBot
-A chatbot to identify nearest available parking spaces & cost in Singapore developed on telegram using nodered and python. Please feel free to use the Telegram chatbot. Link: tg://resolve?domain=Sg_parkingbot
+A chatbot to identify nearest available parking spaces & cost in Singapore developed on telegram using nodered and python. Please feel free to use the [Telegram chatbot](https://t.me/Sg_parkingbot).
 
 Please feel free to hit me up if you're keen on collaborating or have some ideas for improvements.
 
@@ -9,7 +9,7 @@ Parking in Singapore is expensive. For folks who don't mind walking a bit more a
 Compare parking cost VS distance from destination to make the most informed decision.
 
 ## Instructions
-![Telegram Chatbot Process](https://media.giphy.com/media/JstcTqbGzmqMYR0dwN/giphy.gif)
+![Telegram Chatbot Process](https://media.giphy.com/media/cj8IY8b7stZ2Bm2Uc9/giphy.gif)
 
 1. Click on the shortcut button beside the chatbot
 2. Select /searchall
